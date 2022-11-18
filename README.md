@@ -25,7 +25,8 @@ This implementation contains:
 - gym[atari]
 ## Usage
 
-
+## Encounter Problems
+`https://blog.csdn.net/qq_39698985/article/details/127922370`
 
 To train a model for Breakout:
 
