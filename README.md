@@ -29,6 +29,7 @@ This implementation contains:
 ## Usage
 To train a model for Breakout:
 
+
     $ python main.py --env_name=Breakout-v0 --is_train=True
     $ python main.py --env_name=Breakout-v0 --is_train=True --display=True
 
