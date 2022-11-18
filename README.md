@@ -14,19 +14,18 @@ This implementation contains:
 
 
 ## Requirements
-
-- Python 2.7 or Python 3.3+
-- [gym](https://github.com/openai/gym)
-- [tqdm](https://github.com/tqdm/tqdm)
-- [SciPy](http://www.scipy.org/install.html) or [OpenCV2](http://opencv.org/)
-- [TensorFlow 0.12.0](https://github.com/tensorflow/tensorflow/tree/r0.12)
-
-
+- python  3.7.13
+- gym 0.15.7
+- tqdm 4.61.2
+- tensorflow 1.15.0
+- protobuf 3.19.0
+- opencv-python
+- ale-py
+- gym[accept-rom-license]
+- gym[atari]
 ## Usage
 
-First, install prerequisites with:
 
-    $ pip install tqdm gym[all]
 
 To train a model for Breakout:
 
