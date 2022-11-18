@@ -23,11 +23,10 @@ This implementation contains:
 - ale-py
 - gym[accept-rom-license]
 - gym[atari]
-## Usage
 
 ## Encounter Problems
 `https://blog.csdn.net/qq_39698985/article/details/127922370`
-
+## Usage
 To train a model for Breakout:
 
     $ python main.py --env_name=Breakout-v0 --is_train=True
